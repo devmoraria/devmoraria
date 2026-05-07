@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devmoraria/devmoraria/blob/e76202fd7142a76fde378f8b1a4b3b03084a9b1f/WhatsApp%20Video%202026-05-06%20at%2023.51.30.mp4" alt="Meu Avatar em Pixel Art" width="280" />
+  <video src="https://github.com/devmoraria/devmoraria/blob/e76202fd7142a76fde378f8b1a4b3b03084a9b1f/WhatsApp%20Video%202026-05-06%20at%2023.51.30.mp4" alt="Meu Avatar em Pixel Art" width="280" />
 </p>
 
 # Prazer, eu sou o Cauan! 👋 
