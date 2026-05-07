@@ -1,5 +1,6 @@
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/3abd3b59-b40b-4e39-9387-f776f18cd354" width="280" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/3abd3b59-b40b-4e39-9387-f776f18cd354" width="280" autoplay loop muted playsinline>
+  </video>
 </p>
 
 # Prazer, eu sou o Cauan! 👋 
