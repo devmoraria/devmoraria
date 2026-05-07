@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/image_0.png" alt="Meu Avatar em Pixel Art" width="280" />
+  <img src="https://github.com/devmoraria/devmoraria/blob/499ec8e226dee418142c050e7ae89d9cc4f7ce93/WhatsApp%20Image%202026-05-06%20at%2023.04.47.jpeg" alt="Meu Avatar em Pixel Art" width="280" />
 </p>
 
 # Olá, eu sou o Cauan! 👋
