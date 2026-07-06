@@ -1,40 +1,93 @@
-<p align="center">
-  <img src="Pixel Art.jpg" alt="Meu Avatar Animado" width="1000" />
+<div align="center">
+
+<img src="header-v2.svg" alt="Cauan Morária" />
+
+<p><i>Product Owner e desenvolvedor, ainda aprendendo os dois ofícios ao mesmo tempo.</i></p>
+
+<a href="https://www.linkedin.com/in/cauan-moraria/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:cauanmorariaa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+
+</div>
+
+<br>
+
+## Quem eu sou
+
+Comecei editando vídeo, sem saber nada de código — só queria contar coisas de um jeito que as pessoas quisessem assistir. Deu certo, o canal chegou a 30k+ pessoas, e foi ali que aprendi algo que carrego até hoje: ninguém se importa com quantos recursos uma coisa tem, só se ela realmente ajuda, se é boa de usar e inspira.
+
+Hoje sou estudante de ADS na Anhanguera, fiz parte do Instituto PROA, e estou tentando aprender a ser bom nas duas pontas: como Product Owner, entendendo o que realmente importa pra quem usa; e como desenvolvedor, escrevendo o Kotlin, Node.js e Spring Boot que tentam colocar essas ideias de pé.
+
+Ainda tenho muito chão pela frente. Um dia gostaria de chegar a uma posição de liderança de produto — mas por enquanto o foco é aprender bem cada etapa, um projeto de cada vez.
+
+<br>
+
+## O que venho construindo
+
+**Virtual Dream** — um app de interpretação de sonhos com a Zuzu, uma mascote-chatbot que analisa sonhos sob a ótica de Freud, Jung ou esoterismo. É o projeto onde mais aprendo, dividindo meu tempo entre pensar como PO e escrever código de verdade.
+
+**Automação de Compras (PROA & Instituto Braha)** — um projeto de 6 semanas com UiPath, Python/Flask e MongoDB, que ajudou a reduzir o tempo do processo de compras de TI de ~32h/mês pra ~2h30/mês. Fico feliz sempre que penso que isso economizou tempo de gente de verdade.
+
+**Pixel Hero** — meu projeto do coração, sem sprint nem prazo me cobrando. Um GDD de um jogo tributo aos clássicos 8/16-bit, onde o herói evolui aos poucos até enfrentar o "The Bug Pixel".
+
+**Hotel Abacaxi** — meu primeiro projeto sério, um sistema de gestão hoteleira via terminal em Kotlin com chatbot em linguagem natural. Guardo carinho especial por ele.
+
+<br>
+
+## Como eu trabalho
+
+| | |
+|---|---|
+| **Produto** | Scrum, Trello, priorização de backlog com foco em impacto real |
+| **Mobile** | Kotlin + Jetpack Compose |
+| **Backend** | Node.js, Express, Spring Boot |
+| **Dados** | MongoDB / NoSQL |
+| **Design** | Figma — tiro ideia do papel antes de virar código |
+| **Comunicação** | Edição de vídeo — apresento projeto tão bem quanto construo |
+
+<br>
+
+## Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,java,nodejs,express,spring,mongodb,html,css,js,figma,git"/>
 </p>
 
-# Prazer, eu sou o Cauan! 👋 
-### Mas como já temos intimidade, pode me chamar de **Morária**.
+<br>
 
-Sou um apaixonado por tecnologia e desenvolvimento de software. Meu foco é transformar ideias complexas em código limpo e interfaces que realmente funcionam. Além da mão na massa no código, atuo como Product Owner em projetos, garantindo que cada funcionalidade tenha um propósito real para o usuário final.
+## GitHub
 
----
+<div align="center">
 
-### 🛠️ O que eu domino (e o que estou aprendendo)
-* **No Mobile:** Meu foco principal é Android, utilizando **Kotlin** e **Jetpack Compose** para criar experiências fluidas.
-* **Na Web:** Domínio de HTML, CSS e JavaScript para interfaces responsivas.
-* **Dados:** Atualmente mergulhado nos estudos de **MongoDB**, explorando o mundo dos bancos de dados NoSQL.
-* **Base Técnica:** Lógica de programação sólida e constante evolução em algoritmos.
+<img src="https://raw.githubusercontent.com/devmoraria/devmoraria/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
 
-### 📈 O "Plus" na Estratégia e Criatividade
-* **Gestão:** Organizo backlogs com **Scrum** e **Trello**, garantindo que as Sprints rodem sem gargalos.
-* **UI/UX:** Tiro as ideias do papel no **Figma**, criando protótipos focados no usuário.
-* **Audiovisual:** Também atuo com **edição de vídeos**, o que me ajuda a comunicar ideias e apresentar projetos de forma dinâmica.
+</div>
 
----
+<div align="center">
 
-### 🧪 No Lab (Ideias em Concepção)
-Atualmente estruturando o GDD (Game Design Document) do **Pixel Hero**, um tributo aos clássicos de 8 e 16 bits para navegador. A premissa foca em evolução progressiva:
-* 👟 **Agilidade:** Desbloqueio de verticalidade com *Iron Boots*.
-* 🛡️ **Estratégia:** Combate à distância com o *Vibranium Shield*.
-* 👊 **Ápice:** A transformação *Gamma Punch* para enfrentar o grande "The Bug Pixel".
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/devmoraria&label=Repositórios&query=$.public_repos&color=9B59B6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/devmoraria?label=Seguidores&color=9B59B6&style=for-the-badge)
+![Open to work](https://img.shields.io/badge/Aberto_a_oportunidades-9B59B6?style=for-the-badge)
 
-### 📌 Projetos Concluídos/Ativos
-* **Virtual Dream:** App mobile em Jetpack Compose para mapeamento de sonhos.
-* **Hotel Abacaxi:** Sistema de gestão hoteleira via terminal desenvolvido em Kotlin.
+</div>
 
----
+<br>
 
-### 📫 Bora trocar uma ideia?
-Seja para falar de Kotlin, MongoDB, edição de vídeo ou sobre o futuro do *Pixel Hero*, é só chamar!
+## Bora trocar ideia?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-moraria/)
+Kotlin, produto, MongoDB, ou o próximo boss do Pixel Hero — manda mensagem, vou adorar conversar.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/cauan-moraria/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<br>
+
+<div align="center">
+
+### Obrigado por passar por aqui
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=1&pause=100000&color=9B59B6&center=true&vCenter=true&width=400&height=30&lines=At%C3%A9+a+pr%C3%B3xima!" />
+
+![Visitantes](https://komarev.com/ghpvc/?username=devmoraria&color=9B59B6&style=flat&label=Visitas)
+
+</div>
