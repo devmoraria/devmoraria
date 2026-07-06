@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avatar.gif" alt="Meu Avatar Animado" width="1000" />
+  <img src="Pixel Art.jpg" alt="Meu Avatar Animado" width="1000" />
 </p>
 
 # Prazer, eu sou o Cauan! 👋 
