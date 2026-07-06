@@ -1,26 +1,21 @@
-<svg width="620" height="130" viewBox="0 0 620 130" xmlns="http://www.w3.org/2000/svg">
+<svg width="620" height="90" viewBox="0 0 620 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#9B59B6">
-        <animate attributeName="stop-color" values="#9B59B6;#8E44AD;#5DADE2;#9B59B6" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#5DADE2">
-        <animate attributeName="stop-color" values="#5DADE2;#9B59B6;#8E44AD;#5DADE2" dur="6s" repeatCount="indefinite"/>
-      </stop>
+      <stop offset="0%" stop-color="#9B59B6"/>
+      <stop offset="100%" stop-color="#5DADE2"/>
     </linearGradient>
+    <style>
+      .name {
+        animation: fadeName 4s ease-in-out infinite;
+      }
+      @keyframes fadeName {
+        0%   { opacity: 0.4; }
+        50%  { opacity: 1; }
+        100% { opacity: 0.4; }
+      }
+    </style>
   </defs>
 
-  <text x="310" y="60" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', sans-serif"
-        font-size="42" font-weight="600" fill="url(#grad)">
-    Cauan Morária
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.03;0.15;0.55;0.65;1" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="72;72;60;60;50;50" keyTimes="0;0.03;0.15;0.55;0.65;1" dur="7s" repeatCount="indefinite"/>
-  </text>
-
-  <text x="310" y="95" text-anchor="middle" font-family="'Trebuchet MS', sans-serif"
-        font-size="20" font-weight="400" fill="#B39DDB">
-    Product Owner · Desenvolvedor
-    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.15;0.20;0.32;0.44;0.85;0.95;1" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="y" values="107;107;107;95;95;95;85;85" keyTimes="0;0.15;0.20;0.32;0.44;0.85;0.95;1" dur="7s" repeatCount="indefinite"/>
-  </text>
+  <text x="310" y="58" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif"
+        font-size="42" font-weight="700" fill="url(#grad)" class="name">Cauan Morária</text>
 </svg>
