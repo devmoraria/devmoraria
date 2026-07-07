@@ -23,7 +23,7 @@ Ainda tenho muito chão pela frente. Um dia gostaria de chegar a uma posição d
 
 ## O que venho construindo
 
-**Virtual Dream** — um app de interpretação de sonhos com a Zuzu, uma mascote-chatbot que analisa sonhos sob a ótica de Freud, Jung ou esoterismo. É o projeto onde mais aprendo, dividindo meu tempo entre pensar como PO e escrever código de verdade.
+**Virtual Dream** — um app de interpretação de sonhos, um RAG que analisa sonhos sob a ótica de Freud, Jung ou esoterismo. É o projeto onde mais aprendi, dividindo meu tempo entre pensar como PO e escrever código de verdade.
 
 **Automação de Compras (PROA & Instituto Braha)** — um projeto de 6 semanas com UiPath, Python/Flask e MongoDB, que ajudou a reduzir o tempo do processo de compras de TI de ~32h/mês pra ~2h30/mês. Fico feliz sempre que penso que isso economizou tempo de gente de verdade.
 
