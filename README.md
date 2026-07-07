@@ -13,7 +13,7 @@
 
 ## Quem eu sou
 
-Comecei editando vídeo, sem saber nada de código — só queria contar coisas de um jeito que as pessoas quisessem assistir. Deu certo, o canal chegou a 30k+ pessoas, e foi ali que aprendi algo que carrego até hoje: ninguém se importa com quantos recursos uma coisa tem, só se ela realmente ajuda, se é boa de usar e inspira.
+Comecei editando vídeo, sem saber nada de código, eu só queria contar coisas de um jeito que as pessoas quisessem assistir. Deu certo e fiz uma comunidade com 30k+ pessoas, e foi ali que aprendi algo que carrego até hoje: ninguém se importa com quantos recursos uma coisa tem, só se ela realmente ajuda, é boa de usar e inspira.
 
 Hoje sou estudante de ADS na Anhanguera, fiz parte do Instituto PROA, e estou tentando aprender a ser bom nas duas pontas: como Product Owner, entendendo o que realmente importa pra quem usa; e como desenvolvedor, escrevendo o Kotlin, Node.js e Spring Boot que tentam colocar essas ideias de pé.
 
